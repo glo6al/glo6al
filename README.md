@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 - 👋 I'm Andrew!
 - 🌱 I’m currently learning the ropes of all things web dev.
