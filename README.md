@@ -1,6 +1,6 @@
 ### Hi there!
 
-- 👋 I'm Andrew!
+- 👋 I'm Andrew! I'm...
 - 🏃 Passionate about health and wellness.
 - 🌱 Currently learning the ropes of all things web dev.
 - 👯 Looking to collaborate with other like minded people.
